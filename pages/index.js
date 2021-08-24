@@ -186,7 +186,10 @@ function Home() {
            
             </Grid>
             <Grid>
-              <Row jc="flex-end">
+              <Row jc="flex-end" smJc="flex-start">
+                <a href="https://pages.razorpay.com/pl_Hp4tPDEYccpSK3/view" target="_blank"> 
+                <Img src="/static/donate.png" height="auto" width="200px"/>
+                </a>
                 {/* {ssr&&<form ><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Hp1MsrAmGJlumZ" async> </script> </form>} */}
               
               </Row>
