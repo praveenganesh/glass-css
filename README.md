@@ -1,4 +1,4 @@
-# PayPay - Dashboard
+# GLASS-CSS - GENERATOR
 
 few steps requires to run this application
 
